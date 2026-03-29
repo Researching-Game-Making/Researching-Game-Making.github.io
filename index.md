@@ -9,7 +9,7 @@ In recent years there has been significant growth in the volume of scholarly wor
 
 We invite the submission of short papers of up to 4 pages (not including references). We also welcome submissions exploring game making from a range of perspectives including art and design studies, social sciences, humanities, computing, SCS, and other fields.
 
-**To submit a paper to the workshop reate a new submission for the "Researching Game Making" track on [EasyChair](https://easychair.org/conferences/?conf=fdg26).**
+**To submit a paper to the workshop create a new submission for the "Researching Game Making" track on [EasyChair](https://easychair.org/conferences/?conf=fdg26).**
 
 
 # Submission Details
