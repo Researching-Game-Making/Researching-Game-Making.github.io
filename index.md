@@ -7,7 +7,7 @@ layout: default
 
 In recent years there has been significant growth in the volume of scholarly work investigating game making from a variety of perspectives \[1, 3, 4, 5\]. While the multidisciplinarity of this work showcases a breadth of approaches it can also become siloed into disciplinary dialogues \[2, 6\]. For those entering the field there is a lack of awareness of the breadth of approaches and emerging research trends in relation to game making research. Additionally, researching game design and development allows game makers to understand how others have approached similar and/or different design spaces. As part of an artistic practice, this represents an important factor in the development of the field and our role as educators and researchers.
 
-We invite the submission of short papers of up to 4 pages (not including references). We also welcome submissions exploring game making from a range of perspectives including art and design studies, social sciences, humanities, computing, SCS, and other fields.
+We invite the submission of short papers of up to 1-2 pages (not including references). We also welcome submissions exploring game making from a range of perspectives including art and design studies, social sciences, humanities, computing, SCS, and other fields. Accepted papers will be incuded in the proceedings of FDG2026.
 
 **To submit a paper to the workshop create a new submission for the "Researching Game Making" track on [EasyChair](https://easychair.org/conferences/?conf=fdg26).**
 
