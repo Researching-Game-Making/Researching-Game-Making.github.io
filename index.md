@@ -10,7 +10,7 @@ In recent years there has been significant growth in the volume of scholarly wor
 
 
 
-**To register for the workshop please complete the** [**Form.**](https://forms.office.com/e/JRrbfv3buU)
+To register for the workshop please complete the [**Form**](https://forms.office.com/e/JRrbfv3buU).
 
 
 
